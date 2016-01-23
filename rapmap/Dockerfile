@@ -12,7 +12,7 @@
 FROM centos:5
 
 # File author / maintainer
-MAINTAINER: James Eddy <james.a.eddy@gmail.com>
+MAINTAINER James Eddy <james.a.eddy@gmail.com>
 
 # Specify dependencies & version
 ENV PACKAGES curl libgomp
